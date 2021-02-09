@@ -1,3 +1,7 @@
 Git is a version control system
 gitbash is for windows and is a client 
 github is web based VCC used to creat a remote repository
+
+
+
+new feature included
